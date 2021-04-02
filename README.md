@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sabrina-MM, I'm a beginning front-end developer based in London. I've always been curious about web design and development, so I decided to start with this new code journey and learn more about it.
+- 👋 Hi, I’m @Sabrina-MM, I'm a beginning front-end developer based in London. I've always been curious about web design and development, so I decided to start with this new coding journey and learn more about it.
 - 💞️ I’m looking to collaborate on React projects.
 - 📫 How to reach me : sabrinamarisolmartinez@gmail.com
 
